@@ -5,7 +5,7 @@ This repository provides a curated list of trustworthy sites and resources for o
 <p align="center">
   <img src="https://media.licdn.com/dms/image/C5612AQH9ms4St76PBQ/article-cover_image-shrink_423_752/0/1581352770007?e=1692835200&v=beta&t=r5KjVnKOBNXRx9Hyt3AidRAOfry6s8S-Af_xMvrFzg4" width="80%" alt="LinkedIn Image">
 </p>
-
+<p align="center" style="font-size: 12px;">Image Source: LinkedIn Course by Alex B., available at <a href="https://www.linkedin.com/pulse/list-top-open-public-dataset-providers-alex-b/">LinkedIn Article</a></p>
 
 - [Data.gov](https://www.data.gov/): A comprehensive data source in the US, offering a wide range of datasets, tools, and resources for research, web/mobile app development, and data visualization.
 
